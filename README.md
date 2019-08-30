@@ -374,3 +374,9 @@ $ node tcp-client.js
 もちろんnode.jsとMariaDBを接続することもできるし、PHPでTCPサーバを作ることもできるよ！
 自分のやりやすい方でやりましょう．
 
+## License
+[MIT License](./LICENSE.txt)
+
+## Author
+[hamatshot](https://github.com/hamashot)
+
